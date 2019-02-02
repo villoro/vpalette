@@ -1,3 +1,3 @@
 """ dummy init file """
 
-name = "v-palette"
+from .palette import get_colors
