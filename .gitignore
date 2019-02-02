@@ -27,6 +27,11 @@ nosetests.xml
 pylint.xml
 */pylint.xml
 
+# Package files
+build/
+dist/
+*.egg-info
+
 # Data folders
 /data
 */data
