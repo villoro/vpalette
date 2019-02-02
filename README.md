@@ -1,8 +1,8 @@
-# 2014 Palette Material Design
+# Palette Material Design
 [![Build Status](https://travis-ci.com/villoro/v-palette.svg?branch=master)](https://travis-ci.com/villoro/v-palette)
 [![codecov](https://codecov.io/gh/villoro/v-palette/branch/master/graph/badge.svg)](https://codecov.io/gh/villoro/v-palette)
 
-Utility to easily use 2014 material design colors.
+Utility to easily use material design colors.
 
 ## Colors
 
@@ -58,7 +58,7 @@ colors = get_colors([("red", 100), ("blue", 100)])
 
 
 ## Authors
-* [Arnau Villoro](villoro.com)
+* [Arnau Villoro](https://villoro.com)
 
 ## License
 The content of this repository is licensed under a [MIT](https://opensource.org/licenses/MIT).
