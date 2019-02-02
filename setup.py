@@ -1,12 +1,12 @@
 import io
-from setuptools import setup, find_packages
+from setuptools import setup
 
 setup(
-    name="v-palette",
-    version="0.1.0",
+    name="v_palette",
+    version="0.1.1",
     author="Arnau Villoro",
     author_email="arnau@villoro.com",
-    packages=find_packages(exclude=["tests*"]),
+    packages=["v_palette"],
     include_package_data=True,
     license="MIT",
     description=("Utility to easily use material design colors"),
