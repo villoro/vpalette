@@ -1,0 +1,28 @@
+sudo: required
+
+addons:
+  chrome: stable
+
+language: python
+
+python:
+- '3.6'
+
+install:
+- pip install codecov
+- pip install pylint
+
+script:
+- nosetests --with-coverage --cover-package=v_palette --cover-erase --cover-inclusive
+- pylint --disable=W,R test
+- cd v_palette
+- pylint --disable=W,R v_palette
+- cd ..
+
+after_success:
+- codecov
+
+notifications:
+  email:
+    on_success: never # default: change
+    on_failure: never # default: always
