@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name="v_palette",
-    version="0.1.1",
+    version="0.1.0",
     author="Arnau Villoro",
     author_email="arnau@villoro.com",
     packages=["v_palette"],
