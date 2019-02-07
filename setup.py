@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name="v_palette",
-    version="1.0.0",
+    version="1.0.1",
     author="Arnau Villoro",
     author_email="arnau@villoro.com",
     packages=["v_palette"],
@@ -21,5 +21,5 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python",
         "Programming Language :: Python :: 3.6",
-    ]
+    ],
 )
