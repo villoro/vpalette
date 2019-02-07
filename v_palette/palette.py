@@ -8,7 +8,7 @@ from .colors import MATERIAL
 
 
 _VALID_COLORS = list(MATERIAL.keys())
-_VALID_INDEXS = [50] + [100*x for x in range(1, 10)]
+_VALID_INDEXS = [50] + [100 * x for x in range(1, 10)]
 
 
 def get_one_color(name, index):

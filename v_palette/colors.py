@@ -2,6 +2,7 @@
     Colors info
 """
 
+# fmt: off
 MATERIAL = {
     "red":          {50:"#FFEBEE", 100:"#FFCDD2", 200:"#EF9A9A", 300:"#E57373", 400:"#EF5350", 500:"#F44336", 600:"#E53935", 700:"#D32F2F", 800:"#C62828", 900:"#B71C1C"}, # pylint: disable=line-too-long
     "pink":         {50:"#FCE4EC", 100:"#F8BBD0", 200:"#F48FB1", 300:"#F06292", 400:"#EC407A", 500:"#E91E63", 600:"#D81B60", 700:"#C2185B", 800:"#AD1457", 900:"#880E4F"}, # pylint: disable=line-too-long
@@ -25,3 +26,4 @@ MATERIAL = {
     "black":        {50:"#000000", 100:"#000000", 200:"#000000", 300:"#000000", 400:"#000000", 500:"#000000", 600:"#000000", 700:"#000000", 800:"#000000", 900:"#000000"}, # pylint: disable=line-too-long
     "white":        {50:"#FFFFFF", 100:"#FFFFFF", 200:"#FFFFFF", 300:"#FFFFFF", 400:"#FFFFFF", 500:"#FFFFFF", 600:"#FFFFFF", 700:"#FFFFFF", 800:"#FFFFFF", 900:"#FFFFFF"}  # pylint: disable=line-too-long
 }
+# fmt: on
