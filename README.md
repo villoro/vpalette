@@ -8,9 +8,9 @@ Utility to easily use material design colors.
 
 Available colors are:
 
-<img src="assets/material_grid.svg">
+<img src="https://raw.githubusercontent.com/villoro/v-palette/master/assets/material_grid.svg?sanitize=true">
 
-You can view them in a [svg file](assets/material_grid.svg).
+You can view them in a [svg file](https://github.com/villoro/v-palette/blob/master/assets/material_grid.svg).
 
 More info at [material.io](https://material.io/design/color/the-color-system.html#color-usage-palettes)
 
