@@ -3,6 +3,7 @@
 """
 
 # fmt: off
+# Material colors: https://material.io/design/color/the-color-system.html#color-usage-palettes
 MATERIAL = {
     "red":           {50:"#FFEBEE", 100:"#FFCDD2", 200:"#EF9A9A", 300:"#E57373", 400:"#EF5350", 500:"#F44336", 600:"#E53935", 700:"#D32F2F", 800:"#C62828", 900:"#B71C1C"}, # pylint: disable=line-too-long
     "pink":          {50:"#FCE4EC", 100:"#F8BBD0", 200:"#F48FB1", 300:"#F06292", 400:"#EC407A", 500:"#E91E63", 600:"#D81B60", 700:"#C2185B", 800:"#AD1457", 900:"#880E4F"}, # pylint: disable=line-too-long
@@ -27,6 +28,7 @@ MATERIAL = {
     "white":         {50:"#FFFFFF", 100:"#FFFFFF", 200:"#FFFFFF", 300:"#FFFFFF", 400:"#FFFFFF", 500:"#FFFFFF", 600:"#FFFFFF", 700:"#FFFFFF", 800:"#FFFFFF", 900:"#FFFFFF"}  # pylint: disable=line-too-long
 }
 
+# flat UI colors: https://htmlcolorcodes.com/color-chart/flat-design-color-chart/
 FLAT = {
     "turquoise":     {50:"#E8F8F5", 100:"#D1F2EB", 200:"#A3E4D7", 300:"#76D7C4", 400:"#48C9B0", 500:"#1ABC9C", 600:"#17A589", 700:"#148F77", 800:"#117864", 900:"#0E6251"}, # pylint: disable=line-too-long
     "green-sea":     {50:"#E8F6F3", 100:"#D0ECE7", 200:"#A2D9CE", 300:"#73C6B6", 400:"#45B39D", 500:"#16A085", 600:"#138D75", 700:"#117A65", 800:"#0E6655", 900:"#0B5345"}, # pylint: disable=line-too-long
@@ -50,3 +52,5 @@ FLAT = {
     "asbestos":      {50:"#F2F4F4", 100:"#E5E8E8", 200:"#CCD1D1", 300:"#B2BABB", 400:"#99A3A4", 500:"#7F8C8D", 600:"#707B7C", 700:"#616A6B", 800:"#515A5A", 900:"#424949"}  # pylint: disable=line-too-long
 }
 # fmt: on
+
+COLORS = {"material": MATERIAL, "flat": FLAT}
