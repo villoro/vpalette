@@ -11,16 +11,12 @@ There are two palettes **material** and **flat**.
 ### Material Colors
 <img src="https://raw.githubusercontent.com/villoro/v-palette/master/assets/material_grid.svg?sanitize=true">
 
-You can view them in a [svg file](https://github.com/villoro/v-palette/blob/master/assets/material_grid.svg).
-
-More info at [material.io](https://material.io/design/color/the-color-system.html#color-usage-palettes)
+You can view them in a [svg file](https://github.com/villoro/v-palette/blob/master/assets/material_grid.svg). More info at [material.io](https://material.io/design/color/the-color-system.html#color-usage-palettes).
 
 ### Flat Colors
 <img src="https://raw.githubusercontent.com/villoro/v-palette/master/assets/flat_grid.svg?sanitize=true">
 
-You can view them in a [svg file](https://github.com/villoro/v-palette/blob/master/assets/flat_grid.svg).
-
-More info at [html color codes](https://htmlcolorcodes.com/color-chart/flat-design-color-chart/)
+You can view them in a [svg file](https://github.com/villoro/v-palette/blob/master/assets/flat_grid.svg). More info at [html color codes](https://htmlcolorcodes.com/color-chart/flat-design-color-chart/).
 
 ## Installation
 
