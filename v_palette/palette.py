@@ -1,7 +1,9 @@
 """
-    This library provides an easy way to call Material Colors from python.
+    This library provides an easy way to call colors from palettes using python.
 
-    Available colors: https://material.io/guidelines/style/color.html#color-color-palette
+    Available colors: 
+        - Material: https://material.io/guidelines/style/color.html#color-color-palette
+        - Flat: https://htmlcolorcodes.com/color-chart/flat-design-color-chart/
 """
 
 from .colors import COLORS
@@ -24,11 +26,16 @@ def get_one_color(name, index, palette="material"):
     """
         Gives one color based on it's name and index.
 
-        Available colors: https://material.io/guidelines/style/color.html#color-color-palette
+        Available colors: 
+        - Material: https://material.io/guidelines/style/color.html#color-color-palette
+        - Flat: https://htmlcolorcodes.com/color-chart/flat-design-color-chart/
+
+        If the color is not found it will look at the other palettes.
 
         Args:
-            name:   name of the color
-            index:  intesity of the color
+            name:       name of the color
+            index:      intesity of the color
+            palette:    name of the palette with colors ['material', 'flat']
     """
 
     name = name.lower()
@@ -62,10 +69,13 @@ def get_colors(data, palette="material"):
             get_colors([("red", 100)]) --> ["#FFCDD2"]
             get_colors([("red", 100), ("blue", 100)]) --> ["#FFCDD2", "#BBDEFB"]
 
-        Available colors: https://material.io/guidelines/style/color.html#color-color-palette
+        Available colors: 
+        - Material: https://material.io/guidelines/style/color.html#color-color-palette
+        - Flat: https://htmlcolorcodes.com/color-chart/flat-design-color-chart/
 
         Args:
-            data:   tuple with (name, index) or a list of this tuples
+            data:       tuple with (name, index) or a list of this tuples
+            palette:    name of the palette with colors ['material', 'flat']
 
         Returns:
             if input was a list --> list of hex colors
