@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<!-- Examples of material colors  -->
+<!-- Examples of material colors -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="800px"
 	 height="1488px" viewBox="0 0 800 1488" enable-background="new 0 0 800 1488" xml:space="preserve">
 
 
-<!-- Grid of colors  -->
+<!-- Grid of colors -->
 <g id="material-design-color-chart">
 
-	<!-- red  -->
+	<!-- red -->
 	<g>
 		<rect x="120" y="60" fill="#FFEBEE" width="64" height="64"/>
 		<rect x="188" y="60" fill="#FFCDD2" width="64" height="64"/>
@@ -22,7 +22,7 @@
 		<rect x="732" y="60" fill="#B71C1C" width="64" height="64"/>
 	</g>
 
-	<!-- pink  -->
+	<!-- pink -->
 	<g>
 		<rect x="120" y="128" fill="#FCE4EC" width="64" height="64"/>
 		<rect x="188" y="128" fill="#F8BBD0" width="64" height="64"/>
@@ -36,7 +36,7 @@
 		<rect x="732" y="128" fill="#880E4F" width="64" height="64"/>
 	</g>
 
-	<!-- purple  -->
+	<!-- purple -->
 	<g>
 		<rect x="120" y="196" fill="#F3E5F5" width="64" height="64"/>
 		<rect x="188" y="196" fill="#E1BEE7" width="64" height="64"/>
@@ -50,7 +50,7 @@
 		<rect x="732" y="196" fill="#4A148C" width="64" height="64"/>
 	</g>
 
-	<!-- deep purple  -->
+	<!-- deep purple -->
 	<g>
 		<rect x="120" y="264" fill="#EDE7F6" width="64" height="64"/>
 		<rect x="188" y="264" fill="#D1C4E9" width="64" height="64"/>
@@ -64,7 +64,7 @@
 		<rect x="732" y="264" fill="#311B92" width="64" height="64"/>
 	</g>
 
-	<!-- indigo  -->
+	<!-- indigo -->
 	<g>
 		<rect x="120" y="332" fill="#E8EAF6" width="64" height="64"/>
 		<rect x="188" y="332" fill="#C5CAE9" width="64" height="64"/>
@@ -78,7 +78,7 @@
 		<rect x="732" y="332" fill="#1A237E" width="64" height="64"/>
 	</g>
 
-	<!-- blue  -->
+	<!-- blue -->
 	<g>
 		<rect x="120" y="400" fill="#E3F2FD" width="64" height="64"/>
 		<rect x="188" y="400" fill="#BBDEFB" width="64" height="64"/>
@@ -92,7 +92,7 @@
 		<rect x="732" y="400" fill="#0D47A1" width="64" height="64"/>
 	</g>
 
-	<!-- light blue  -->
+	<!-- light blue -->
 	<g>
 		<rect x="120" y="468" fill="#E1F5FE" width="64" height="64"/>
 		<rect x="188" y="468" fill="#B3E5FC" width="64" height="64"/>
@@ -106,7 +106,7 @@
 		<rect x="732" y="468" fill="#01579B" width="64" height="64"/>
 	</g>
 
-	<!-- cyan  -->
+	<!-- cyan -->
 	<g>
 		<rect x="120" y="536" fill="#E0F7FA" width="64" height="64"/>
 		<rect x="188" y="536" fill="#B2EBF2" width="64" height="64"/>
@@ -120,7 +120,7 @@
 		<rect x="732" y="536" fill="#006064" width="64" height="64"/>
 	</g>
 
-	<!-- teal  -->
+	<!-- teal -->
 	<g>
 		<rect x="120" y="604" fill="#E0F2F1" width="64" height="64"/>
 		<rect x="188" y="604" fill="#B2DFDB" width="64" height="64"/>
@@ -134,7 +134,7 @@
 		<rect x="732" y="604" fill="#004D40" width="64" height="64"/>
 	</g>
 
-	<!-- green  -->
+	<!-- green -->
 	<g>
 		<rect x="120" y="672" fill="#E8F5E9" width="64" height="64"/>
 		<rect x="188" y="672" fill="#C8E6C9" width="64" height="64"/>
@@ -148,7 +148,7 @@
 		<rect x="732" y="672" fill="#1B5E20" width="64" height="64"/>
 	</g>
 
-	<!-- light green  -->
+	<!-- light green -->
 	<g>
 		<rect x="120" y="740" fill="#F1F8E9" width="64" height="64"/>
 		<rect x="188" y="740" fill="#DCEDC8" width="64" height="64"/>
@@ -162,7 +162,7 @@
 		<rect x="732" y="740" fill="#33691E" width="64" height="64"/>
 	</g>
 
-	<!-- lime  -->
+	<!-- lime -->
 	<g>
 		<rect x="120" y="808" fill="#F9FBE7" width="64" height="64"/>
 		<rect x="188" y="808" fill="#F0F4C3" width="64" height="64"/>
@@ -176,7 +176,7 @@
 		<rect x="732" y="808" fill="#827717" width="64" height="64"/>
 	</g>
 
-	<!-- yellow  -->
+	<!-- yellow -->
 	<g>
 		<rect x="120" y="876" fill="#FFFDE7" width="64" height="64"/>
 		<rect x="188" y="876" fill="#FFF9C4" width="64" height="64"/>
@@ -190,7 +190,7 @@
 		<rect x="732" y="876" fill="#F57F17" width="64" height="64"/>
 	</g>
 
-	<!-- amber  -->
+	<!-- amber -->
 	<g>
 		<rect x="120" y="944" fill="#FFF8E1" width="64" height="64"/>
 		<rect x="188" y="944" fill="#FFECB3" width="64" height="64"/>
@@ -204,7 +204,7 @@
 		<rect x="732" y="944" fill="#FF6F00" width="64" height="64"/>
 	</g>
 
-	<!-- orange  -->
+	<!-- orange -->
 	<g>
 		<rect x="120" y="1012" fill="#FFF3E0" width="64" height="64"/>
 		<rect x="188" y="1012" fill="#FFE0B2" width="64" height="64"/>
@@ -218,7 +218,7 @@
 		<rect x="732" y="1012" fill="#E65100" width="64" height="64"/>
 	</g>
 
-	<!-- deep orange  -->
+	<!-- deep orange -->
 	<g>
 		<rect x="120" y="1080" fill="#FBE9E7" width="64" height="64"/>
 		<rect x="188" y="1080" fill="#FFCCBC" width="64" height="64"/>
@@ -232,7 +232,7 @@
 		<rect x="732" y="1080" fill="#BF360C" width="64" height="64"/>
 	</g>
 
-	<!-- brown  -->
+	<!-- brown -->
 	<g>
 		<rect x="120" y="1148" fill="#EFEBE9" width="64" height="64"/>
 		<rect x="188" y="1148" fill="#D7CCC8" width="64" height="64"/>
@@ -246,7 +246,7 @@
 		<rect x="732" y="1148" fill="#3E2723" width="64" height="64"/>
 	</g>
 
-	<!-- grey  -->
+	<!-- grey -->
 	<g>
 		<rect x="120" y="1216" fill="#FAFAFA" width="64" height="64"/>
 		<rect x="188" y="1216" fill="#F5F5F5" width="64" height="64"/>
@@ -260,7 +260,7 @@
 		<rect x="732" y="1216" fill="#212121" width="64" height="64"/>
 	</g>
 
-	<!-- blue grey  -->
+	<!-- blue grey -->
 	<g>
 		<rect x="120" y="1284" fill="#ECEFF1" width="64" height="64"/>
 		<rect x="188" y="1284" fill="#CFD8DC" width="64" height="64"/>
@@ -274,7 +274,7 @@
 		<rect x="732" y="1284" fill="#263238" width="64" height="64"/>
 	</g>
 
-	<!-- black  -->
+	<!-- black -->
 	<g>
 		<rect x="120" y="1352" fill="#000000" width="64" height="64"/>
 		<rect x="188" y="1352" fill="#000000" width="64" height="64"/>
@@ -288,7 +288,7 @@
 		<rect x="732" y="1352" fill="#000000" width="64" height="64"/>
 	</g>
 
-	<!-- white  -->
+	<!-- white -->
 	<g>
 		<rect x="120" y="1420" fill="#FFFFFF" width="64" height="64"/>
 		<rect x="188" y="1420" fill="#FFFFFF" width="64" height="64"/>
@@ -303,7 +303,7 @@
 	</g>
 </g>
 
-<!-- Color names  -->
+<!-- Color names -->
 <g>
 	<text transform="matrix(1 0 0 1 16 96)" font-size="18">red</text>
 	<text transform="matrix(1 0 0 1 16 164)" font-size="18">pink</text>
@@ -328,7 +328,7 @@
 	<text transform="matrix(1 0 0 1 16 1456)" font-size="18">white</text>
 </g>
 
-<!-- Color indexs  -->
+<!-- Color indexs -->
 <g>
 	<text transform="matrix(1 0 0 1 146 36)" font-size="18">50</text>
 	<text transform="matrix(1 0 0 1 207 36)" font-size="18">100</text>

@@ -1,7 +1,7 @@
 """
     This library provides an easy way to call colors from palettes using python.
 
-    Available colors: 
+    Available colors:
         - Material: https://material.io/guidelines/style/color.html#color-color-palette
         - Flat: https://htmlcolorcodes.com/color-chart/flat-design-color-chart/
 """
@@ -26,7 +26,7 @@ def get_one_color(name, index, palette="material"):
     """
         Gives one color based on it's name and index.
 
-        Available colors: 
+        Available colors:
         - Material: https://material.io/guidelines/style/color.html#color-color-palette
         - Flat: https://htmlcolorcodes.com/color-chart/flat-design-color-chart/
 
@@ -69,7 +69,7 @@ def get_colors(data, palette="material"):
             get_colors([("red", 100)]) --> ["#FFCDD2"]
             get_colors([("red", 100), ("blue", 100)]) --> ["#FFCDD2", "#BBDEFB"]
 
-        Available colors: 
+        Available colors:
         - Material: https://material.io/guidelines/style/color.html#color-color-palette
         - Flat: https://htmlcolorcodes.com/color-chart/flat-design-color-chart/
 
