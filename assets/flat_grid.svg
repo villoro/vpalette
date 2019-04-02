@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Examples of material colors -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="800px"
+	 height="1488px" viewBox="0 0 800 1420" enable-background="new 0 0 800 1488" xml:space="preserve">
+
+
+<!-- Grid of colors -->
+<g id="material-design-color-chart">
+
+	<!-- turquoise -->
+	<g>
+		<rect x="120" y="60" fill="#E8F8F5" width="64" height="64"/>
+		<rect x="188" y="60" fill="#D1F2EB" width="64" height="64"/>
+		<rect x="256" y="60" fill="#A3E4D7" width="64" height="64"/>
+		<rect x="324" y="60" fill="#76D7C4" width="64" height="64"/>
+		<rect x="392" y="60" fill="#48C9B0" width="64" height="64"/>
+		<rect x="460" y="60" fill="#1ABC9C" width="64" height="64"/>
+		<rect x="528" y="60" fill="#17A589" width="64" height="64"/>
+		<rect x="596" y="60" fill="#148F77" width="64" height="64"/>
+		<rect x="664" y="60" fill="#117864" width="64" height="64"/>
+		<rect x="732" y="60" fill="#0E6251" width="64" height="64"/>
+	</g>
+
+	<!-- green-sea -->
+	<g>
+		<rect x="120" y="128" fill="#E8F6F3" width="64" height="64"/>
+		<rect x="188" y="128" fill="#D0ECE7" width="64" height="64"/>
+		<rect x="256" y="128" fill="#A2D9CE" width="64" height="64"/>
+		<rect x="324" y="128" fill="#73C6B6" width="64" height="64"/>
+		<rect x="392" y="128" fill="#45B39D" width="64" height="64"/>
+		<rect x="460" y="128" fill="#16A085" width="64" height="64"/>
+		<rect x="528" y="128" fill="#138D75" width="64" height="64"/>
+		<rect x="596" y="128" fill="#117A65" width="64" height="64"/>
+		<rect x="664" y="128" fill="#0E6655" width="64" height="64"/>
+		<rect x="732" y="128" fill="#0B5345" width="64" height="64"/>
+	</g>
+
+	<!-- emerald -->
+	<g>
+		<rect x="120" y="196" fill="#EAFAF1" width="64" height="64"/>
+		<rect x="188" y="196" fill="#D5F5E3" width="64" height="64"/>
+		<rect x="256" y="196" fill="#ABEBC6" width="64" height="64"/>
+		<rect x="324" y="196" fill="#82E0AA" width="64" height="64"/>
+		<rect x="392" y="196" fill="#58D68D" width="64" height="64"/>
+		<rect x="460" y="196" fill="#2ECC71" width="64" height="64"/>
+		<rect x="528" y="196" fill="#28B463" width="64" height="64"/>
+		<rect x="596" y="196" fill="#239B56" width="64" height="64"/>
+		<rect x="664" y="196" fill="#1D8348" width="64" height="64"/>
+		<rect x="732" y="196" fill="#186A3B" width="64" height="64"/>
+	</g>
+
+	<!-- nephritis -->
+	<g>
+		<rect x="120" y="264" fill="#E9F7EF" width="64" height="64"/>
+		<rect x="188" y="264" fill="#D4EFDF" width="64" height="64"/>
+		<rect x="256" y="264" fill="#A9DFBF" width="64" height="64"/>
+		<rect x="324" y="264" fill="#7DCEA0" width="64" height="64"/>
+		<rect x="392" y="264" fill="#52BE80" width="64" height="64"/>
+		<rect x="460" y="264" fill="#27AE60" width="64" height="64"/>
+		<rect x="528" y="264" fill="#229954" width="64" height="64"/>
+		<rect x="596" y="264" fill="#1E8449" width="64" height="64"/>
+		<rect x="664" y="264" fill="#196F3D" width="64" height="64"/>
+		<rect x="732" y="264" fill="#145A32" width="64" height="64"/>
+	</g>
+
+	<!-- peter-river -->
+	<g>
+		<rect x="120" y="332" fill="#EBF5FB" width="64" height="64"/>
+		<rect x="188" y="332" fill="#D6EAF8" width="64" height="64"/>
+		<rect x="256" y="332" fill="#AED6F1" width="64" height="64"/>
+		<rect x="324" y="332" fill="#85C1E9" width="64" height="64"/>
+		<rect x="392" y="332" fill="#5DADE2" width="64" height="64"/>
+		<rect x="460" y="332" fill="#3498DB" width="64" height="64"/>
+		<rect x="528" y="332" fill="#2E86C1" width="64" height="64"/>
+		<rect x="596" y="332" fill="#2874A6" width="64" height="64"/>
+		<rect x="664" y="332" fill="#21618C" width="64" height="64"/>
+		<rect x="732" y="332" fill="#1B4F72" width="64" height="64"/>
+	</g>
+
+	<!-- belize-hole -->
+	<g>
+		<rect x="120" y="400" fill="#EAF2F8" width="64" height="64"/>
+		<rect x="188" y="400" fill="#D4E6F1" width="64" height="64"/>
+		<rect x="256" y="400" fill="#A9CCE3" width="64" height="64"/>
+		<rect x="324" y="400" fill="#7FB3D5" width="64" height="64"/>
+		<rect x="392" y="400" fill="#5499C7" width="64" height="64"/>
+		<rect x="460" y="400" fill="#2980B9" width="64" height="64"/>
+		<rect x="528" y="400" fill="#2471A3" width="64" height="64"/>
+		<rect x="596" y="400" fill="#1F618D" width="64" height="64"/>
+		<rect x="664" y="400" fill="#1A5276" width="64" height="64"/>
+		<rect x="732" y="400" fill="#154360" width="64" height="64"/>
+	</g>
+
+	<!-- amethyst -->
+	<g>
+		<rect x="120" y="468" fill="#F5EEF8" width="64" height="64"/>
+		<rect x="188" y="468" fill="#EBDEF0" width="64" height="64"/>
+		<rect x="256" y="468" fill="#D7BDE2" width="64" height="64"/>
+		<rect x="324" y="468" fill="#C39BD3" width="64" height="64"/>
+		<rect x="392" y="468" fill="#AF7AC5" width="64" height="64"/>
+		<rect x="460" y="468" fill="#9B59B6" width="64" height="64"/>
+		<rect x="528" y="468" fill="#884EA0" width="64" height="64"/>
+		<rect x="596" y="468" fill="#76448A" width="64" height="64"/>
+		<rect x="664" y="468" fill="#633974" width="64" height="64"/>
+		<rect x="732" y="468" fill="#512E5F" width="64" height="64"/>
+	</g>
+
+	<!-- wisteria -->
+	<g>
+		<rect x="120" y="536" fill="#F4ECF7" width="64" height="64"/>
+		<rect x="188" y="536" fill="#E8DAEF" width="64" height="64"/>
+		<rect x="256" y="536" fill="#D2B4DE" width="64" height="64"/>
+		<rect x="324" y="536" fill="#BB8FCE" width="64" height="64"/>
+		<rect x="392" y="536" fill="#A569BD" width="64" height="64"/>
+		<rect x="460" y="536" fill="#8E44AD" width="64" height="64"/>
+		<rect x="528" y="536" fill="#7D3C98" width="64" height="64"/>
+		<rect x="596" y="536" fill="#6C3483" width="64" height="64"/>
+		<rect x="664" y="536" fill="#5B2C6F" width="64" height="64"/>
+		<rect x="732" y="536" fill="#4A235A" width="64" height="64"/>
+	</g>
+
+	<!-- wet-asphalt -->
+	<g>
+		<rect x="120" y="604" fill="#EBEDEF" width="64" height="64"/>
+		<rect x="188" y="604" fill="#D6DBDF" width="64" height="64"/>
+		<rect x="256" y="604" fill="#AEB6BF" width="64" height="64"/>
+		<rect x="324" y="604" fill="#85929E" width="64" height="64"/>
+		<rect x="392" y="604" fill="#5D6D7E" width="64" height="64"/>
+		<rect x="460" y="604" fill="#34495E" width="64" height="64"/>
+		<rect x="528" y="604" fill="#2E4053" width="64" height="64"/>
+		<rect x="596" y="604" fill="#283747" width="64" height="64"/>
+		<rect x="664" y="604" fill="#212F3C" width="64" height="64"/>
+		<rect x="732" y="604" fill="#1B2631" width="64" height="64"/>
+	</g>
+
+	<!-- midnight-blue -->
+	<g>
+		<rect x="120" y="672" fill="#EAECEE" width="64" height="64"/>
+		<rect x="188" y="672" fill="#D5D8DC" width="64" height="64"/>
+		<rect x="256" y="672" fill="#ABB2B9" width="64" height="64"/>
+		<rect x="324" y="672" fill="#808B96" width="64" height="64"/>
+		<rect x="392" y="672" fill="#566573" width="64" height="64"/>
+		<rect x="460" y="672" fill="#2C3E50" width="64" height="64"/>
+		<rect x="528" y="672" fill="#273746" width="64" height="64"/>
+		<rect x="596" y="672" fill="#212F3D" width="64" height="64"/>
+		<rect x="664" y="672" fill="#1C2833" width="64" height="64"/>
+		<rect x="732" y="672" fill="#17202A" width="64" height="64"/>
+	</g>
+
+	<!-- sunflower -->
+	<g>
+		<rect x="120" y="740" fill="#FEF9E7" width="64" height="64"/>
+		<rect x="188" y="740" fill="#FCF3CF" width="64" height="64"/>
+		<rect x="256" y="740" fill="#F9E79F" width="64" height="64"/>
+		<rect x="324" y="740" fill="#F7DC6F" width="64" height="64"/>
+		<rect x="392" y="740" fill="#F4D03F" width="64" height="64"/>
+		<rect x="460" y="740" fill="#F1C40F" width="64" height="64"/>
+		<rect x="528" y="740" fill="#D4AC0D" width="64" height="64"/>
+		<rect x="596" y="740" fill="#B7950B" width="64" height="64"/>
+		<rect x="664" y="740" fill="#9A7D0A" width="64" height="64"/>
+		<rect x="732" y="740" fill="#7D6608" width="64" height="64"/>
+	</g>
+
+	<!-- orange -->
+	<g>
+		<rect x="120" y="808" fill="#FEF5E7" width="64" height="64"/>
+		<rect x="188" y="808" fill="#FDEBD0" width="64" height="64"/>
+		<rect x="256" y="808" fill="#FAD7A0" width="64" height="64"/>
+		<rect x="324" y="808" fill="#F8C471" width="64" height="64"/>
+		<rect x="392" y="808" fill="#F5B041" width="64" height="64"/>
+		<rect x="460" y="808" fill="#F39C12" width="64" height="64"/>
+		<rect x="528" y="808" fill="#D68910" width="64" height="64"/>
+		<rect x="596" y="808" fill="#B9770E" width="64" height="64"/>
+		<rect x="664" y="808" fill="#9C640C" width="64" height="64"/>
+		<rect x="732" y="808" fill="#7E5109" width="64" height="64"/>
+	</g>
+
+	<!-- carrot -->
+	<g>
+		<rect x="120" y="876" fill="#FDF2E9" width="64" height="64"/>
+		<rect x="188" y="876" fill="#FAE5D3" width="64" height="64"/>
+		<rect x="256" y="876" fill="#F5CBA7" width="64" height="64"/>
+		<rect x="324" y="876" fill="#F0B27A" width="64" height="64"/>
+		<rect x="392" y="876" fill="#EB984E" width="64" height="64"/>
+		<rect x="460" y="876" fill="#E67E22" width="64" height="64"/>
+		<rect x="528" y="876" fill="#CA6F1E" width="64" height="64"/>
+		<rect x="596" y="876" fill="#AF601A" width="64" height="64"/>
+		<rect x="664" y="876" fill="#935116" width="64" height="64"/>
+		<rect x="732" y="876" fill="#784212" width="64" height="64"/>
+	</g>
+
+	<!-- pumpkin -->
+	<g>
+		<rect x="120" y="944" fill="#FBEEE6" width="64" height="64"/>
+		<rect x="188" y="944" fill="#F6DDCC" width="64" height="64"/>
+		<rect x="256" y="944" fill="#EDBB99" width="64" height="64"/>
+		<rect x="324" y="944" fill="#E59866" width="64" height="64"/>
+		<rect x="392" y="944" fill="#DC7633" width="64" height="64"/>
+		<rect x="460" y="944" fill="#D35400" width="64" height="64"/>
+		<rect x="528" y="944" fill="#BA4A00" width="64" height="64"/>
+		<rect x="596" y="944" fill="#A04000" width="64" height="64"/>
+		<rect x="664" y="944" fill="#873600" width="64" height="64"/>
+		<rect x="732" y="944" fill="#6E2C00" width="64" height="64"/>
+	</g>
+
+	<!-- alizarin -->
+	<g>
+		<rect x="120" y="1012" fill="#FDEDEC" width="64" height="64"/>
+		<rect x="188" y="1012" fill="#FADBD8" width="64" height="64"/>
+		<rect x="256" y="1012" fill="#F5B7B1" width="64" height="64"/>
+		<rect x="324" y="1012" fill="#F1948A" width="64" height="64"/>
+		<rect x="392" y="1012" fill="#EC7063" width="64" height="64"/>
+		<rect x="460" y="1012" fill="#E74C3C" width="64" height="64"/>
+		<rect x="528" y="1012" fill="#CB4335" width="64" height="64"/>
+		<rect x="596" y="1012" fill="#B03A2E" width="64" height="64"/>
+		<rect x="664" y="1012" fill="#943126" width="64" height="64"/>
+		<rect x="732" y="1012" fill="#78281F" width="64" height="64"/>
+	</g>
+
+	<!-- pomegranate -->
+	<g>
+		<rect x="120" y="1080" fill="#F9EBEA" width="64" height="64"/>
+		<rect x="188" y="1080" fill="#F2D7D5" width="64" height="64"/>
+		<rect x="256" y="1080" fill="#E6B0AA" width="64" height="64"/>
+		<rect x="324" y="1080" fill="#D98880" width="64" height="64"/>
+		<rect x="392" y="1080" fill="#CD6155" width="64" height="64"/>
+		<rect x="460" y="1080" fill="#C0392B" width="64" height="64"/>
+		<rect x="528" y="1080" fill="#A93226" width="64" height="64"/>
+		<rect x="596" y="1080" fill="#922B21" width="64" height="64"/>
+		<rect x="664" y="1080" fill="#7B241C" width="64" height="64"/>
+		<rect x="732" y="1080" fill="#641E16" width="64" height="64"/>
+	</g>
+
+	<!-- clouds -->
+	<g>
+		<rect x="120" y="1148" fill="#FDFEFE" width="64" height="64"/>
+		<rect x="188" y="1148" fill="#FBFCFC" width="64" height="64"/>
+		<rect x="256" y="1148" fill="#F7F9F9" width="64" height="64"/>
+		<rect x="324" y="1148" fill="#F4F6F7" width="64" height="64"/>
+		<rect x="392" y="1148" fill="#F0F3F4" width="64" height="64"/>
+		<rect x="460" y="1148" fill="#ECF0F1" width="64" height="64"/>
+		<rect x="528" y="1148" fill="#D0D3D4" width="64" height="64"/>
+		<rect x="596" y="1148" fill="#B3B6B7" width="64" height="64"/>
+		<rect x="664" y="1148" fill="#979A9A" width="64" height="64"/>
+		<rect x="732" y="1148" fill="#7B7D7D" width="64" height="64"/>
+	</g>
+
+	<!-- silver -->
+	<g>
+		<rect x="120" y="1216" fill="#F8F9F9" width="64" height="64"/>
+		<rect x="188" y="1216" fill="#F2F3F4" width="64" height="64"/>
+		<rect x="256" y="1216" fill="#E5E7E9" width="64" height="64"/>
+		<rect x="324" y="1216" fill="#D7DBDD" width="64" height="64"/>
+		<rect x="392" y="1216" fill="#CACFD2" width="64" height="64"/>
+		<rect x="460" y="1216" fill="#BDC3C7" width="64" height="64"/>
+		<rect x="528" y="1216" fill="#A6ACAF" width="64" height="64"/>
+		<rect x="596" y="1216" fill="#909497" width="64" height="64"/>
+		<rect x="664" y="1216" fill="#797D7F" width="64" height="64"/>
+		<rect x="732" y="1216" fill="#626567" width="64" height="64"/>
+	</g>
+
+	<!-- concrete -->
+	<g>
+		<rect x="120" y="1284" fill="#F4F6F6" width="64" height="64"/>
+		<rect x="188" y="1284" fill="#EAEDED" width="64" height="64"/>
+		<rect x="256" y="1284" fill="#D5DBDB" width="64" height="64"/>
+		<rect x="324" y="1284" fill="#BFC9CA" width="64" height="64"/>
+		<rect x="392" y="1284" fill="#AAB7B8" width="64" height="64"/>
+		<rect x="460" y="1284" fill="#95A5A6" width="64" height="64"/>
+		<rect x="528" y="1284" fill="#839192" width="64" height="64"/>
+		<rect x="596" y="1284" fill="#717D7E" width="64" height="64"/>
+		<rect x="664" y="1284" fill="#5F6A6A" width="64" height="64"/>
+		<rect x="732" y="1284" fill="#4D5656" width="64" height="64"/>
+	</g>
+
+	<!-- asbestos -->
+	<g>
+		<rect x="120" y="1352" fill="#F2F4F4" width="64" height="64"/>
+		<rect x="188" y="1352" fill="#E5E8E8" width="64" height="64"/>
+		<rect x="256" y="1352" fill="#CCD1D1" width="64" height="64"/>
+		<rect x="324" y="1352" fill="#B2BABB" width="64" height="64"/>
+		<rect x="392" y="1352" fill="#99A3A4" width="64" height="64"/>
+		<rect x="460" y="1352" fill="#7F8C8D" width="64" height="64"/>
+		<rect x="528" y="1352" fill="#707B7C" width="64" height="64"/>
+		<rect x="596" y="1352" fill="#616A6B" width="64" height="64"/>
+		<rect x="664" y="1352" fill="#515A5A" width="64" height="64"/>
+		<rect x="732" y="1352" fill="#424949" width="64" height="64"/>
+	</g>
+</g>
+
+<!-- Color names -->
+<g>
+	<text transform="matrix(1 0 0 1 16 96)" font-size="18">turquoise</text>
+	<text transform="matrix(1 0 0 1 16 164)" font-size="18">green-sea</text>
+	<text transform="matrix(1 0 0 1 16 232)" font-size="18">emerald</text>
+	<text transform="matrix(1 0 0 1 16 300)" font-size="18">nephritis</text>
+	<text transform="matrix(1 0 0 1 16 368)" font-size="18">peter-river</text>
+	<text transform="matrix(1 0 0 1 16 436)" font-size="18">belize-hole</text>
+	<text transform="matrix(1 0 0 1 16 504)" font-size="18">amethyst</text>
+	<text transform="matrix(1 0 0 1 16 572)" font-size="18">wisteria</text>
+	<text transform="matrix(1 0 0 1 16 640)" font-size="18">wet-asphalt</text>
+	<text transform="matrix(1 0 0 1 16 708)" font-size="18">midnight-blue</text>
+	<text transform="matrix(1 0 0 1 16 776)" font-size="18">sunflower</text>
+	<text transform="matrix(1 0 0 1 16 844)" font-size="18">orange</text>
+	<text transform="matrix(1 0 0 1 16 912)" font-size="18">carrot</text>
+	<text transform="matrix(1 0 0 1 16 980)" font-size="18">pumpkin</text>
+	<text transform="matrix(1 0 0 1 16 1048)" font-size="18">alizarin</text>
+	<text transform="matrix(1 0 0 1 16 1116)" font-size="18">pomegranate</text>
+	<text transform="matrix(1 0 0 1 16 1184)" font-size="18">clouds</text>
+	<text transform="matrix(1 0 0 1 16 1252)" font-size="18">silver</text>
+	<text transform="matrix(1 0 0 1 16 1320)" font-size="18">concrete</text>
+	<text transform="matrix(1 0 0 1 16 1388)" font-size="18">asbestos</text>
+</g>
+
+<!-- Color indexs -->
+<g>
+	<text transform="matrix(1 0 0 1 146 36)" font-size="18">50</text>
+	<text transform="matrix(1 0 0 1 207 36)" font-size="18">100</text>
+	<text transform="matrix(1 0 0 1 275 36)" font-size="18">200</text>
+	<text transform="matrix(1 0 0 1 343 36)" font-size="18">300</text>
+	<text transform="matrix(1 0 0 1 411 36)" font-size="18">400</text>
+	<text transform="matrix(1 0 0 1 479 36)" font-size="18">500</text>
+	<text transform="matrix(1 0 0 1 547 36)" font-size="18">600</text>
+	<text transform="matrix(1 0 0 1 615 36)" font-size="18">700</text>
+	<text transform="matrix(1 0 0 1 683 36)" font-size="18">800</text>
+	<text transform="matrix(1 0 0 1 751 36)" font-size="18">900</text>
+</g>
+
+</svg>
