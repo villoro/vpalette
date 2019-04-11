@@ -40,8 +40,10 @@ get_colors([("red", 100), ("blue", 100)]) # out: ['#FFCDD2', '#BBDEFB']
 
 # 3. Retrive colors from others palettes
 get_colors([("emerald", 100), ("silver", 100)]) # out: ['#D5F5E3', '#F2F3F4']
+get_colors([("emerald", 100), ("silver", 100)], palette="flat") # out: ['#D5F5E3', '#F2F3F4']
 ```
 
+> The parameter `palette` is not necessary if the color you want is not present in the material palette. Since if the color is not found in the default palette it will look at the others palettes.
 
 ## Authors
 * [Arnau Villoro](https://villoro.com)
