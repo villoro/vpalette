@@ -39,6 +39,9 @@ dist/
 # Executables
 *.exe
 
+# mypy
+.mypy_cache/
+
 
 # --------------------- PERSONAL EXCLUSIONS -----------------------------------
 # Data folders
