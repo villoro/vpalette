@@ -3,13 +3,24 @@ line-length = 100
 
 [tool.poetry]
 name = "vpalette"
-version = "1.1.0"
+version = "2.0.0"
 description = "Utility to easily use material design colors"
 authors = ["Arnau Villoro <arnau@villoro.com>"]
 maintainers = ["Arnau Villoro <arnau@villoro.com>"]
 license = "MIT"
 readme = "README.md"
 repository = "https://github.com/villoro/vpalette"
+classifiers = [
+    "Intended Audience :: Developers",
+    "Intended Audience :: Education",
+    "Intended Audience :: Manufacturing",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+]
 
 [tool.poetry.dependencies]
 python = "^3.6"
