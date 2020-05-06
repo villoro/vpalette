@@ -42,6 +42,9 @@ dist/
 # mypy
 .mypy_cache/
 
+# pytest
+.pytest_cache/
+
 
 # --------------------- PERSONAL EXCLUSIONS -----------------------------------
 # Data folders
