@@ -11,16 +11,12 @@ There are two palettes **material** and **flat**.
 ### Material Colors
 <img src="https://raw.githubusercontent.com/villoro/v-palette/master/assets/material_grid.svg?sanitize=true">
 
-You can view them in a [svg file](https://github.com/villoro/v-palette/blob/master/assets/material_grid.svg).
-
-More info at [material.io](https://material.io/design/color/the-color-system.html#color-usage-palettes)
+You can view them in a [svg file](https://github.com/villoro/v-palette/blob/master/assets/material_grid.svg). More info at [material.io](https://material.io/design/color/the-color-system.html#color-usage-palettes).
 
 ### Flat Colors
 <img src="https://raw.githubusercontent.com/villoro/v-palette/master/assets/flat_grid.svg?sanitize=true">
 
-You can view them in a [svg file](https://github.com/villoro/v-palette/blob/master/assets/flat_grid.svg).
-
-More info at [html color codes](https://htmlcolorcodes.com/color-chart/flat-design-color-chart/)
+You can view them in a [svg file](https://github.com/villoro/v-palette/blob/master/assets/flat_grid.svg). More info at [html color codes](https://htmlcolorcodes.com/color-chart/flat-design-color-chart/).
 
 ## Installation
 
@@ -44,8 +40,10 @@ get_colors([("red", 100), ("blue", 100)]) # out: ['#FFCDD2', '#BBDEFB']
 
 # 3. Retrive colors from others palettes
 get_colors([("emerald", 100), ("silver", 100)]) # out: ['#D5F5E3', '#F2F3F4']
+get_colors([("emerald", 100), ("silver", 100)], palette="flat") # out: ['#D5F5E3', '#F2F3F4']
 ```
 
+> The parameter `palette` is not necessary if the color you want is not present in the material palette. Since if the color is not found in the default palette it will look at the others palettes.
 
 ## Authors
 * [Arnau Villoro](https://villoro.com)
