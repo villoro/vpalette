@@ -1,25 +1,20 @@
-sudo: required
-
 language: python
 
 python:
 - '3.6'
+- '3.7'
+- '3.8'
 
 install:
-- pip install codecov
-- pip install pylint
+- pip install poetry pre-commit
+- poetry install
+- pre-commit install
 
 script:
-- nosetests --with-coverage --cover-package=v_palette --cover-erase --cover-inclusive
-- pylint --disable=W,R test
-- cd v_palette
-- pylint --disable=W,R v_palette
-- cd ..
-
-after_success:
-- codecov
+- pre-commit run --all-files
+- poetry run pytest
 
 notifications:
   email:
     on_success: never # default: change
-    on_failure: never # default: always
+    on_failure: change # default: always
