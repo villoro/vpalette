@@ -6,14 +6,13 @@ python:
 - '3.6'
 
 install:
-- pip install poetry
+- pip install poetry pre-commit
 - poetry install
+- pre-commit install
 
 script:
+- pre-commit run --all-files
 - poetry run pytest
-
-after_success:
-- codecov
 
 notifications:
   email:

@@ -1,6 +1,5 @@
 # Palettes
 [![Build Status](https://travis-ci.com/villoro/v-palette.svg?branch=master)](https://travis-ci.com/villoro/v-palette)
-[![codecov](https://codecov.io/gh/villoro/v-palette/branch/master/graph/badge.svg)](https://codecov.io/gh/villoro/v-palette)
 
 Utility to easily use palettes
 
