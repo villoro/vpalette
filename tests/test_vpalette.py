@@ -5,7 +5,7 @@ from vpalette.palette import get_colors, get_one_color
 
 
 def test_version():
-    assert __version__ == "2.0.0"
+    assert __version__ == "2.0.1"
 
 
 def test_from_tuple():
