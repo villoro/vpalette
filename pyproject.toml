@@ -3,7 +3,7 @@ line-length = 100
 
 [tool.poetry]
 name = "vpalette"
-version = "2.0.0"
+version = "2.0.1"
 description = "Utility to easily use material design colors"
 authors = ["Arnau Villoro <arnau@villoro.com>"]
 maintainers = ["Arnau Villoro <arnau@villoro.com>"]
