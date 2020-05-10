@@ -44,6 +44,26 @@ get_colors([("emerald", 100), ("silver", 100)], palette="flat") # out: ['#D5F5E3
 
 > The parameter `palette` is not necessary if the color you want is not present in the material palette. Since if the color is not found in the default palette it will look at the others palettes.
 
+## Development
+
+This package relies on [poetry](https://villoro.com/post/poetry) and `pre-commit`. In order to develop you need to install both libraries with:
+
+```sh
+pip install poetry pre-commit
+poetry install
+pre-commit install
+```
+
+Then you need to add `poetry run` before any python shell command. For example:
+
+```sh
+# DO
+poetry run python master.py
+
+# don't do
+python master.py
+```
+
 ## Authors
 * [Arnau Villoro](https://villoro.com)
 
