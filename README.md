@@ -17,6 +17,11 @@ You can view them in a [svg file](https://github.com/villoro/v-palette/blob/mast
 
 You can view them in a [svg file](https://github.com/villoro/v-palette/blob/master/assets/flat_grid.svg). More info at [html color codes](https://htmlcolorcodes.com/color-chart/flat-design-color-chart/).
 
+### Tailwind Colors
+<img src="https://raw.githubusercontent.com/villoro/v-palette/master/assets/tailwind.svg?sanitize=true">
+
+You can view them in a [svg file](https://github.com/villoro/v-palette/blob/master/assets/tailwind.svg). More info at [tailwind colors](https://uicolors.app/browse/tailwind-colors).
+
 ## Installation
 
 You can install it with pip by running:
