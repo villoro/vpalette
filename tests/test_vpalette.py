@@ -11,16 +11,16 @@ def test_version():
 def test_from_tuple():
     """Test that you can pass a tuple to get one color"""
 
-    assert get_colors(("red", 100)) == "#FFCDD2"
+    assert get_colors(("red", 500)) == "#FF5722"
 
 
 def test_from_list_of_tuples():
     """Test that you can pass a list of tuples to get a list of colors"""
 
-    assert get_colors([("red", 100)]) == ["#FFCDD2"]
+    assert get_colors([("red", 500)]) == ["#FF5722"]
 
     # Same but with two colors
-    assert get_colors([("red", 100), ("blue", 100)]) == ["#FFCDD2", "#BBDEFB"]
+    assert get_colors([("red", 500), ("blue", 500)]) == ["#FF5722", "#3B82F6"]
 
 
 def test_invalid_params():
@@ -39,8 +39,8 @@ def test_both_palettes():
     """Test that handles well other palettes"""
 
     # Request a color from default palette
-    assert get_colors(("orange", 100)) == "#FFE0B2"
+    assert get_colors(("orange", 500)) == "#FF9800"
 
     # Request from other palettes
-    assert get_colors(("silver", 100)) == "#F2F3F4"
-    assert get_colors(("orange", 100), palette="flat") == "#FDEBD0"
+    assert get_colors(("silver", 500)) == "#BDC3C7"
+    assert get_colors(("orange", 500), palette="flat") == "#F39C12"
