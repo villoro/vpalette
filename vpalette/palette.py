@@ -13,7 +13,7 @@ _VALID_INDEXS = [50] + [100 * x for x in range(1, 10)]
 
 
 def get_valid_colors():
-    """ Gives a list of valid colors """
+    """Gives a list of valid colors"""
 
     valid_colors = []
     for data in COLORS.values():
@@ -24,18 +24,18 @@ def get_valid_colors():
 
 def get_one_color(name, index, palette="material"):
     """
-        Gives one color based on it's name and index.
+    Gives one color based on it's name and index.
 
-        Available colors:
-        - Material: https://material.io/guidelines/style/color.html#color-color-palette
-        - Flat: https://htmlcolorcodes.com/color-chart/flat-design-color-chart/
+    Available colors:
+    - Material: https://material.io/guidelines/style/color.html#color-color-palette
+    - Flat: https://htmlcolorcodes.com/color-chart/flat-design-color-chart/
 
-        If the color is not found it will look at the other palettes.
+    If the color is not found it will look at the other palettes.
 
-        Args:
-            name:       name of the color
-            index:      intesity of the color
-            palette:    name of the palette with colors ['material', 'flat']
+    Args:
+        name:       name of the color
+        index:      intesity of the color
+        palette:    name of the palette with colors ['material', 'flat']
     """
 
     name = name.lower()
@@ -60,26 +60,26 @@ def get_one_color(name, index, palette="material"):
 
 def get_colors(data, palette="material"):
     """
-        Gives hex colors.
+    Gives hex colors.
 
-        You can pass a tuple with name and index. Example:
-            get_colors(("red", 100)) --> "#FFCDD2"
+    You can pass a tuple with name and index. Example:
+        get_colors(("red", 100)) --> "#FFCDD2"
 
-        Or a list of tuples with name and index. Examples:
-            get_colors([("red", 100)]) --> ["#FFCDD2"]
-            get_colors([("red", 100), ("blue", 100)]) --> ["#FFCDD2", "#BBDEFB"]
+    Or a list of tuples with name and index. Examples:
+        get_colors([("red", 100)]) --> ["#FFCDD2"]
+        get_colors([("red", 100), ("blue", 100)]) --> ["#FFCDD2", "#BBDEFB"]
 
-        Available colors:
-        - Material: https://material.io/guidelines/style/color.html#color-color-palette
-        - Flat: https://htmlcolorcodes.com/color-chart/flat-design-color-chart/
+    Available colors:
+    - Material: https://material.io/guidelines/style/color.html#color-color-palette
+    - Flat: https://htmlcolorcodes.com/color-chart/flat-design-color-chart/
 
-        Args:
-            data:       tuple with (name, index) or a list of this tuples
-            palette:    name of the palette with colors ['material', 'flat']
+    Args:
+        data:       tuple with (name, index) or a list of this tuples
+        palette:    name of the palette with colors ['material', 'flat']
 
-        Returns:
-            if input was a list --> list of hex colors
-            if input was a tuple --> hex color
+    Returns:
+        if input was a list --> list of hex colors
+        if input was a tuple --> hex color
     """
 
     # If it is a list, return a list of colors

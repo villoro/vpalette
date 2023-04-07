@@ -9,13 +9,13 @@ def test_version():
 
 
 def test_from_tuple():
-    """ Test that you can pass a tuple to get one color """
+    """Test that you can pass a tuple to get one color"""
 
     assert get_colors(("red", 100)) == "#FFCDD2"
 
 
 def test_from_list_of_tuples():
-    """ Test that you can pass a list of tuples to get a list of colors """
+    """Test that you can pass a list of tuples to get a list of colors"""
 
     assert get_colors([("red", 100)]) == ["#FFCDD2"]
 
@@ -24,7 +24,7 @@ def test_from_list_of_tuples():
 
 
 def test_invalid_params():
-    """ Test that raises ValueError when input params are wrong """
+    """Test that raises ValueError when input params are wrong"""
 
     # Wrong color name
     with pytest.raises(ValueError):
@@ -36,7 +36,7 @@ def test_invalid_params():
 
 
 def test_both_palettes():
-    """ Test that handles well other palettes """
+    """Test that handles well other palettes"""
 
     # Request a color from default palette
     assert get_colors(("orange", 100)) == "#FFE0B2"
