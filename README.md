@@ -7,6 +7,11 @@ Utility to easily use palettes
 
 There are two palettes **material** and **flat**.
 
+### Vtint Colors
+<img src="https://raw.githubusercontent.com/villoro/v-palette/master/assets/vtint.svg?sanitize=true">
+
+You can view them in a [svg file](https://github.com/villoro/v-palette/blob/master/assets/vtint.svg). Those have been custom made using [tints.dev](https://www.tints.dev/?red=FF5722&pink=EC4899&fuchsia=D946EF&purple=A855F7&amethyst=9B59B6&indigo=6366F1&blue=3B82F6&sky=0EA5E9&cyan=06B6D4&teal=14B8A6&emerald=10B981&green=22C55E&olive=8BC34A&lime=CDDC39&yellow=FFEB3B&amber=FFC107&orange=FF9800&brown=795548&stone=78716C&asphalt=34495E&grey=9E9E9E).
+
 ### Material Colors
 <img src="https://raw.githubusercontent.com/villoro/v-palette/master/assets/material_grid.svg?sanitize=true">
 
