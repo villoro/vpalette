@@ -12,7 +12,6 @@ jobs:
     - uses: j178/prek-action@v1
 
   tests:
-    needs: [pre_commit]
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
