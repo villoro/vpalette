@@ -45,6 +45,8 @@ dist/
 # pytest
 .pytest_cache/
 
+# Claude
+.claude/
 
 # --------------------- PERSONAL EXCLUSIONS -----------------------------------
 # Data folders
@@ -55,3 +57,5 @@ dist/
 # --------------------- PROJECT EXCLUSIONS ------------------------------------
 # Playground notebooks
 */test.ipynb
+
+vdropbox/*
