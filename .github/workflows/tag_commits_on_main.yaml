@@ -1,0 +1,17 @@
+name: Tag Version
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - pyproject.toml
+
+permissions:
+  contents: write
+
+jobs:
+  tag_version:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: villoro/vhooks/tag_version@1.0.0
