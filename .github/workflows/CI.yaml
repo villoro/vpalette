@@ -7,25 +7,26 @@ jobs:
   pre_commit:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-    - uses: actions/setup-python@v4
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
     - uses: pre-commit/action@v3.0.0
 
   tests:
     needs: [pre_commit]
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
 
-    - name: Set up Python 3.11.0
-      uses: actions/setup-python@v4
+    - name: Install uv
+      uses: astral-sh/setup-uv@v3
       with:
-        python-version: 3.11.0
+        enable-cache: true
+
+    - name: Set up Python 3.11
+      run: uv python install 3.11
 
     - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install poetry==1.2.2
-        poetry install
+      run: uv sync --all-extras --dev
+
     - name: Tests
-      run: poetry run pytest
+      run: uv run pytest
