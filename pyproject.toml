@@ -1,9 +1,9 @@
-[tool.black]
+[tool.ruff]
 line-length = 100
 
 [project]
 name = "vpalette"
-version = "3.1.0"
+version = "3.1.1"
 description = "Utility to easily use material design colors"
 readme = "README.md"
 license = { text = "MIT" }
@@ -31,8 +31,8 @@ urls = { Repository = "https://github.com/villoro/vpalette" }
 
 [dependency-groups]
 dev = [
-    "black>=23.3.0",
-    "pre-commit>=3.2.2",
+    "prek>=0.0.9",
+    "ruff>=0.6.0",
     "pytest>=7.2.2",
 ]
 

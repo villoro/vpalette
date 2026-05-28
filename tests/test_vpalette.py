@@ -1,7 +1,8 @@
 import pytest
 
 from vpalette import __version__
-from vpalette.palette import get_colors, get_one_color
+from vpalette.palette import get_colors
+from vpalette.palette import get_one_color
 
 
 def test_version():

@@ -1,5 +1,5 @@
 """
-    Colors info
+Colors info
 """
 
 # fmt: off

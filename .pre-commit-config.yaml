@@ -1,10 +1,20 @@
 repos:
-- repo: https://github.com/pre-commit/pre-commit-hooks
-  rev: v4.0.1
-  hooks:
-  - id: check-yaml
-  - id: no-commit-to-branch
-- repo: https://github.com/psf/black
-  rev: 22.3.0
-  hooks:
-  - id: black
+  # Default checks
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.5.0
+    hooks:
+    - id: check-ast
+    - id: check-yaml
+    - id: check-json
+    - id: check-toml
+    - id: check-merge-conflict
+    - id: no-commit-to-branch
+    - id: pretty-format-json
+
+  # Python linter and formatter (includes import sorting via `I` rules)
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.5.6
+    hooks:
+      - id: ruff
+        args: [ --fix ]
+      - id: ruff-format

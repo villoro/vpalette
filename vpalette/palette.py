@@ -1,11 +1,11 @@
 """
-    This library provides an easy way to call colors from palettes using python.
+This library provides an easy way to call colors from palettes using python.
 
-    Available colors:
-        - Vtint: https://www.tints.dev/?red=FF5722&pink=EC4899&fuchsia=D946EF&purple=A855F7&amethyst=9B59B6&indigo=6366F1&blue=3B82F6&sky=0EA5E9&cyan=06B6D4&teal=14B8A6&emerald=10B981&green=22C55E&olive=8BC34A&lime=CDDC39&yellow=FFEB3B&amber=FFC107&orange=FF9800&brown=795548&stone=78716C&asphalt=34495E&grey=9E9E9E
-        - Material: https://material.io/guidelines/style/color.html#color-color-palette
-        - Flat: https://htmlcolorcodes.com/color-chart/flat-design-color-chart/
-        - Tailwind: https://uicolors.app/browse/tailwind-colors
+Available colors:
+    - Vtint: https://www.tints.dev/?red=FF5722&pink=EC4899&fuchsia=D946EF&purple=A855F7&amethyst=9B59B6&indigo=6366F1&blue=3B82F6&sky=0EA5E9&cyan=06B6D4&teal=14B8A6&emerald=10B981&green=22C55E&olive=8BC34A&lime=CDDC39&yellow=FFEB3B&amber=FFC107&orange=FF9800&brown=795548&stone=78716C&asphalt=34495E&grey=9E9E9E
+    - Material: https://material.io/guidelines/style/color.html#color-color-palette
+    - Flat: https://htmlcolorcodes.com/color-chart/flat-design-color-chart/
+    - Tailwind: https://uicolors.app/browse/tailwind-colors
 """
 
 from .colors import COLORS
