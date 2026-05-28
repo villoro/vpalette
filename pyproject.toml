@@ -3,7 +3,7 @@ line-length = 100
 
 [project]
 name = "vpalette"
-version = "3.1.0"
+version = "3.1.1"
 description = "Utility to easily use material design colors"
 readme = "README.md"
 license = { text = "MIT" }
