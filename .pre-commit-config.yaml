@@ -9,6 +9,7 @@ repos:
     - id: check-toml
     - id: check-merge-conflict
     - id: no-commit-to-branch
+      args: ['--branch', 'main']
     - id: pretty-format-json
 
   # Python linter and formatter (includes import sorting via `I` rules)
